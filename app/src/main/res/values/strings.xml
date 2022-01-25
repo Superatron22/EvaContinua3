@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eva3Cordova</string>
+    <string name="LoginText">Login</string>
+    <string name="Sign_Up_Text">Sign Up</string>
+    <string name="username_text">Ussername</string>
+    <string name="password_text">Password</string>
+    <string name="login1text">Login</string>
+    <string name="nicolas">Nicolas Cordova</string>
+    <string name="ocupacion">Estudiante idat</string>
+    <string name="datos">Ingrese datos</string>
+    <string name="registrar">registrar datos</string>
+    <string name="passwordError">Password must contain al least 6 characters</string>
+</resources>
